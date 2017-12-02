@@ -1,0 +1,336 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FlySatteliteWeather
+</name>
+</assembly>
+<members>
+<member name="T:FlySatteliteWeather.My.Resources.Resources">
+<summary>
+  一个强类型的资源类，用于查找本地化的字符串等。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.ResourceManager">
+<summary>
+  返回此类使用的缓存的 ResourceManager 实例。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.Culture">
+<summary>
+  使用此强类型资源类，为所有资源查找
+  重写当前线程的 CurrentUICulture 属性。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.CityLocation">
+<summary>
+  查找类似 上海上海,121.48,31.22|
+上海嘉定,121.24,31.4|
+上海宝山,121.48,31.41|
+上海川沙,121.7,31.19|
+上海南汇,121.76,31.05|
+上海奉贤,121.46,30.92|
+上海松江,121.24,31|
+上海金山,121.16,30.89|
+上海青浦,121.1,31.15|
+上海崇明,121.4,31.73|
+云南昆明,102.73,25.04|
+云南富民,102.48,25.21|
+云南晋宁,102.58,24.68|
+云南呈贡,102.79,24.9|
+云南安宁,102.44,24.95|
+云南昭通,103.7,29.32|
+云南永善,103.63,28.22|
+云南大关,103.91,27.74|
+云南彝良,104.06,27.61|
+云南鲁甸,103.54,27.21|
+云南绥江,103.97,28.58|
+云南盐津,104.28,28.08|
+云南威信,105.05,27.85|
+云南镇雄,104.86,27.42|
+云南巧家,102.92,26.9|
+云南永富,104.38,28.62|
+云南 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.FSW">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.night">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.night2">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.night3">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.night4">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.Preloader_3">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.satelite_weather">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.satelite_weather_blue">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.skyCon">
+<summary>
+  查找类似 CLEAR_DAY:晴天|
+CLEAR_NIGHT:晴夜|
+PARTLY_CLOUDY_DAY:多云|
+PARTLY_CLOUDY_NIGHT:多云|
+CLOUDY:阴|
+RAIN:雨|
+SNOW:雪|
+WIND:风|
+FOG:雾| 的本地化字符串。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.TestCaiyunapi">
+<summary>
+  查找类似 {
+    &quot;status&quot;:&quot;ok&quot;,
+    &quot;lang&quot;:&quot;zh_CN&quot;,  
+    &quot;server_time&quot;:1443418222,
+    &quot;tzshift&quot;:28800, 
+    &quot;location&quot;:[
+        25.1552, 
+        121.6544 
+    ],
+    &quot;unit&quot;:&quot;metric&quot;, 
+    &quot;result&quot;:{
+        &quot;status&quot;:&quot;ok&quot;,
+        &quot;temperature&quot;:28.0,  
+        &quot;skycon&quot;:&quot;RAIN&quot;,  
+        &quot;pm25&quot;: 11,       
+        &quot;cloudrate&quot;:0.51,  
+        &quot;humidity&quot;:0.92,  
+        &quot;precipitation&quot;:{  
+             &quot;nearest&quot;:{ 
+                 &quot;status&quot;:&quot;ok&quot;,
+                 &quot;distance&quot;:0.77, 
+                 &quot;intensity&quot;: [字符串的其余部分被截断]&quot;; 的本地化字符串。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.中雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.中雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.冻雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.冻雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.多云">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.多云_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.大暴雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.大暴雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.大雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.大雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.大雪">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.大雪_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.小雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.小雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.小雪">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.小雪_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.强沙尘暴">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.强沙尘暴_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.晴">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.晴_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.暴雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.暴雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.暴雪">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.暴雪_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.沙尘">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.沙尘_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.沙尘暴">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.沙尘暴_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.特大暴雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.特大暴雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.阴天">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.阴天_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.阵雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.阵雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.阵雪">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.阵雪_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.雷阵雨">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.雷阵雨_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.雾">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+<member name="P:FlySatteliteWeather.My.Resources.Resources.雾_png">
+<summary>
+  查找 System.Drawing.Bitmap 类型的本地化资源。
+</summary>
+</member>
+</members>
+</doc>
